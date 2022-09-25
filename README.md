@@ -38,7 +38,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # nextjs
 
 **stack**
-nextjs, 
+nextjs, react, javascript, css, scss
 
 **npm inside**
 npx create-next-app .
+npm install --save-dev sass
+npm i json-server
+npm i -D concurrently
