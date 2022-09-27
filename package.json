@@ -8,11 +8,12 @@
     "start": "next start",
     "serve": "concurrently \"npm run dev\" \"npm run mock\"",
     "lint": "next lint",
-    "mock": "json-server -w db.json -p 4200 -d 450"
+    "mock": "json-server -w db.json -p 4200 -d 1750"
   },
   "dependencies": {
     "json-server": "^0.17.0",
     "next": "12.3.1",
+    "nextjs-progressbar": "^0.0.14",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },

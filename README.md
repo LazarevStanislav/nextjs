@@ -45,3 +45,4 @@ npx create-next-app .
 npm install --save-dev sass
 npm i json-server
 npm i -D concurrently
+npm i nextjs-progressbar
